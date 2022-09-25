@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "World's Percentage share in Low Carbon Energy Sources by Country - 2019",
+  "title": {"text": "Each Country's Share in Low Carbon Energy Sources - 2019", "fontSize":"20"},
   "width": 800,
   "height": 400,
   "projection": {"type": "equalEarth"},
